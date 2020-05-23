@@ -1,4 +1,7 @@
 # Coding、3D、2D 技術交流興趣調查
+
+## Support：[SHELTER ZONE](https://shelter-zone.github.io/SHELTER-ZONE/#/)
+
 ### 前言：
 經個人的觀察，許多技術性交流社群都會遇到同樣的一個狀況，幽靈成員/成員流失。<br>
 很少人會去探討幽靈成員形成的原因，當然，這有很多種的因素。<br>
@@ -9,6 +12,21 @@
 希望藉由問卷調查統計的方式，得知某個特定族群、群體，相對較感興趣的內容與主題。<br>
 協助各經營技術交流社群的經營者、管理者，能給予一些經營趨勢與方向。
 
+### 注意：
+問卷有分為`一般`與`Basic`，Basic 面向的是初學者族群
+
+### 問卷連結：
+#### Coder
+- [Coder](https://forms.gle/7UUPiWjBedJeLvGU7)
+- [Coder Basic](https://forms.gle/sXgNXMPR8pHB3v1g6)
+
+#### 3D Artist
+- [3D Artist](https://forms.gle/figrPaUjg3GBND1g9)
+- [3D Basic Artist](https://forms.gle/CWb4VBBp9o2Y6Kks8)
+
+#### 2D Artist
+- [2D Artist](https://forms.gle/DpjuTDNSns3bLK976)
+- [2D Basic Artist](https://forms.gle/G7S8NtASRKsFx5ZL9)
 
 ## ♻ 預計下次更新時間 2020 / 06 / 01
 
