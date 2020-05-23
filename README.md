@@ -33,6 +33,7 @@ Basic 初學者，包括有興趣但還沒接觸，剛入門不久連最基礎�
 - [2D Basic Artist](https://forms.gle/G7S8NtASRKsFx5ZL9)
 
 ## ♻ 預計下次更新時間 2020 / 06 / 01
+將會公布每份問卷的Excel統計表單與圖表，敬請期待。
 
 ## Coder
 暫無統計資料。
