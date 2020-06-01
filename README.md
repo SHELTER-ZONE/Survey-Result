@@ -1,5 +1,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## 統計結果下載：[2020/06/01](https://github.com/SHELTER-ZONE/Technical-Community-Survey/raw/master/%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C%E5%82%99%E4%BB%BD/20200601%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C.zip)
+
 # Coding、3D、2D 技術交流興趣調查
 
 ## Support：[SHELTER ZONE](https://shelter-zone.github.io/SHELTER-ZONE/#/)
@@ -42,32 +44,21 @@ Basic 初學者，包括有興趣但還沒接觸，剛入門不久連最基礎�
 ## Coder
 收到份數：50
 
-暫無統計資料。
-
 ## Coder Basic
 收到份數：46
-
-暫無統計資料。
 
 ---
 
 ## 2D Artist
 收到份數：13
 
-暫無統計資料。
-
 ## 2D Basic Artist
 收到份數：17
-
-暫無統計資料。
 
 ---
 
 ## 3D Artist
 收到份數：16
 
-暫無統計資料。
-
 ## 3D Basic Artist
 收到份數：16
-暫無統計資料。
